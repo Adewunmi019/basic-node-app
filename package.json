@@ -1,0 +1,7 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Create A basic node application",
+  "author": "Bullseye",
+  "private": true
+}
